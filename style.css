@@ -1,0 +1,19 @@
+html {
+    padding: 10%;
+    justify-content: center;
+    align-content: space-evenly;
+}
+
+.header {
+    background-color: darkblue;
+    
+}
+
+.two {
+    background-color: white;
+}
+
+
+.three {
+    background-color: #E5E7EB;  
+}
